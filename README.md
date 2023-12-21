@@ -145,3 +145,7 @@ Kelas : PW A
     - get /api/stat - menampilkan data-data pada auction yang sedang berlangsung
     - get /api/statAuc - menampilkan total auction yang telah dikelola sepanjang hayat website
     - get /api/statBid - menampilkan total bid yang ada sepanjang hayat website
+
+## BONUS Hosting
+
+-   LINK : [https://millennialauctions.my.id/](https://millennialauctions.my.id/)
