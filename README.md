@@ -48,6 +48,7 @@ Kelas : PW A
     - Manage user oleh admin (show, update, delete)
     - DB
     - Forgot Password
+    - Logout
 
 2. Rachellia
 
@@ -64,6 +65,7 @@ Kelas : PW A
     - Detail Produk
     - CRUD BID
     - DB
+    - Hosting
 
 4. Fadhel (TIDAK KERJA)
 
