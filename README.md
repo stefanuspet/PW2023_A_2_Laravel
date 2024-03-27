@@ -5,7 +5,7 @@ Kelas : PW A
 
 <h3>Anggota Kelompok 2:</h3>
 
-<p>Rachelia Ayu Herdani - 210711019</p>
+<p>Rachelia Ayu Herdanii - 210711019</p>
 <p>Idelia Jonathan - 210711105</p>
 <p>Stepanus Petra Pambudi - 210711441</p>
 <p>Fadhel Sitakka - 210711183</p>
